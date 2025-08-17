@@ -4,7 +4,6 @@ A study highlighting the improvement in health metrics across a newly establishe
 
 # Orchard Health Analysis Dashboards
 
-## Orchard Health Analysis Dashboards
 
 This ag-tech dashboard was created using a custom CSV I developed while working as an Operations Manager in the Agricultural Industry, where I began integrating complex data insights into fieldwork.
 
@@ -50,11 +49,11 @@ Modernization- Granular soil data required the use of legacy soil maps, which ha
 A year-over-year comparison revealed a clear increase in healthy trees in both Row A and Row B after the solar irrigation system was installed in early 2024.
 Trees marked “Vacant” declined notably from 2023 to 2024, indicating improved survival rates.
 “Treat” cases declined slightly but still existed, underscoring the need for ongoing monitoring and possibly targeted intervention (e.g., pest treatment, pruning, or soil amendment).
-The improvements are most pronounced in Row A, possibly due to topography or irrigation proximity.
+The improvements are most pronounced in Row A, possibly due to topography or irrigation proximity. Soil moisture levels and temperature effected tree health more than soil type. There was no notable health difference between trees in a location with a sandy loam versus a loam. 
 
 ## Conclusion
 
-The dashboard demonstrates how small to medium agricultural operations can benefit from visualizing tree health over time. By documenting a shift from drought-stressed conditions in 2023 to improved outcomes in 2024, this case supports investment in sustainable infrastructure like solar-powered irrigation. As the orchard matures, future enhancements could include soil sensors, weather integrations, and real-time alerting systems to further automate crop health insights.
+The dashboard demonstrates how small to medium agricultural operations can benefit from visualizing tree health over time. By documenting a shift from drought-stressed conditions in 2023 to improved outcomes in 2024, this case supports investment in sustainable infrastructure like solar-powered irrigation. As the orchard matures, future enhancements could include soil sensors, weather integrations, and other systems to further automate crop health insights. Digital reporting has been created for 2025 and 2026 to include more granular biotic and abotic stressors for the orchard. 
 
 
 ## License
